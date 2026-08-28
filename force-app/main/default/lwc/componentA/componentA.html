@@ -1,0 +1,9 @@
+<template>
+    <lightning-card  title="Component A">
+        <lightning-input type="text" label="Enter Name" lwc:ref ="userName"></lightning-input>
+        <b>
+        <lightning-button label="SUBMIT" title="Non-primary action" onclick={handleClick} class="slds-m-left_x-small"></lightning-button>
+        </b>
+        <c-component-b user-name = {parentUserName}></c-component-b>
+    </lightning-card>
+</template>
