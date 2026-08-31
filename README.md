@@ -3,6 +3,11 @@ simran making changes
 does the change occur checking
 # Salesforce DX Project: Next Steps
 making changes to check
+
+
+"This text is safely inside my sandbox" - GEMINI  (31 AUG 26)
+
+
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
 ## How Do You Plan to Deploy Your Changes?
